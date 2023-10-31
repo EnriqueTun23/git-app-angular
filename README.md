@@ -1,5 +1,5 @@
 # GifApp
-
+This version of the node is = 19.9.0
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.8.
 
 ## Development server
